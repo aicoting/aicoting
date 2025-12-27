@@ -1,8 +1,6 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
-  <img
-  src="https://readme-typing-svg.demolab.com/?lines=Always+Stay+Curious&center=true&size=50&color=FFA500"
-  alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always+Stay+Curious&center=true&size=30&color=FFA500" alt="Typing SVG"/>
 
 
 
