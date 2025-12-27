@@ -5,12 +5,12 @@
 <img align="right" src="./imgs/公众号二维码.jpg" width="150" />
 
 
-### Hi，我是aicoting，一个热爱技术并且热爱分享的little coder。
+### Hi，我是aicoting，一个热爱技术并且热爱分享的little coder
 
 ---
 
 
-👉 [aicoting官方AI网站](aicoting.cn)
+👉 [aicoting官方AI网站](https://aicoting.cn)
 
 <br/>
   <!-- profile logo 个人资料徽标 -->
