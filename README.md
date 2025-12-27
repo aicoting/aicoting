@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 -->
 
 
-### 🤺 About Me
+### 🤺 slogan
 
 <p>&emsp;&emsp;分享是一种信仰，连接让成长更有温度。</p>
 
