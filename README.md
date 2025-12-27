@@ -46,6 +46,14 @@ Here are some ideas to get you started:
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=aicoting&column=4)
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=aicoting&theme=darkhub&column=4&margin-w=10&margin-h=10"
+  width="800"
+/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aicoting&show_icons=true)
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aicoting)
 
 📕 &nbsp;**Latest Blog Posts**
