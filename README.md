@@ -1,65 +1,89 @@
 <div align="center">
-  <!-- dynamic typing effect 动态打字效果 -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Always+Stay+Curious&center=true&font_size=80" alt="Typing SVG" />
 
-<img align="right" src="./imgs/公众号二维码.jpg" />
+  <!-- 动态打字 -->
+  <img 
+    src="https://readme-typing-svg.demolab.com/?lines=Always+Stay+Curious;AI+%7C+Computer+Vision+%7C+Systems&center=true&size=45"
+    alt="Typing SVG"
+  />
 
-### Hi，我是aicoting。
+  <br/><br/>
+
+  <h2>Hi 👋 我是 aicoting</h2>
+
+  <p>
+    计算机硕士在读 ｜ AI / 计算机视觉 ｜ 热爱编程与阅读
+  </p>
+
+  <p>
+    👉 <a href="https://aicoting.cn"><b>aicoting 官方 AI 网站</b></a>
+  </p>
+
+  <br/>
+
+  <!-- 社交徽标 -->
+  <div>
+    <a href="https://x.com/HZhangting">
+      <img src="https://img.shields.io/badge/Twitter-@HZhangting-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
+    </a>&emsp;
+    <a href="https://www.youtube.com/channel/UCZFnqiae-NLdu-4uJJZscQg">
+      <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat&logo=youtube&logoColor=white"/>
+    </a>&emsp;
+    <a href="https://www.zhihu.com/people/wu-wang-wo-24-38">
+      <img src="https://img.shields.io/badge/Blog-Zhihu-0084FF?style=flat&logo=zhihu&logoColor=white"/>
+    </a>&emsp;
+    <a href="https://space.bilibili.com/649312105">
+      <img src="https://img.shields.io/badge/Bilibili-B站-FF69B4?style=flat"/>
+    </a>
+  </div>
+
+  <br/>
+
+  <!-- 统计 -->
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=zhangting-hit&label=Profile%20Views&color=orange&style=flat"/>
+    &emsp;
+    <a href="https://wakatime.com/@zhangting-hit">
+      <img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg"/>
+    </a>
+  </div>
+
+</div>
 
 ---
 
+## 🧑‍💻 About Me
 
-👉 [aicoting官方AI网站](aicoting.cn)
+- 🎓 计算机硕士在读  
+- 🤖 关注方向：AI / 计算机视觉 / 多模态  
+- ✍️ 持续写作，构建长期知识体系  
+- 🚀 希望做**对人有价值的技术内容**
 
-<br/>
-  <!-- profile logo 个人资料徽标 -->
-  <div>
-    <a href="https://x.com/HZhangting"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/channel/UCZFnqiae-NLdu-4uJJZscQg"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/wu-wang-wo-24-38"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="https://cdn.nlark.com/yuque/0/2025/jpeg/28454971/1748338566646-6d4c827a-074d-4cf6-a864-6af9b515b2d5.jpeg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/649312105?spm_id_from=333.33.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=zhangting-hit&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@zhangting-hit"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
-  
-  </div>
-  <!-- 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhangting-hit/zhangting-hit/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhangting-hit/zhangting-hit/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhangting-hit/zhangting-hit/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+---
 
-## Hello 👋
-<!--
-**zhangting-hit/zhangting-hit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### 🤺 About Me
-
-<p>&emsp;&emsp;计算机硕士在读，热爱编程和读书。</p>
-
-📕 &nbsp;**Latest Blog Posts**
+## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
 
+## 🐍 Contribution Graph
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/zhangting-hit/zhangting-hit/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/zhangting-hit/zhangting-hit/output/github-contribution-grid-snake.svg">
+    <img 
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/zhangting-hit/zhangting-hit/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
+---
 
-
+<p align="center">
+  <img src="./imgs/公众号二维码.jpg" width="180"/>
+  <br/>
+  <sub>📬 公众号：aicoting</sub>
+</p>
