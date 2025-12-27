@@ -2,7 +2,8 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <img src="https://readme-typing-svg.demolab.com/?lines=Always+Stay+Curious&center=true&font_size=80" alt="Typing SVG" />
 
-<img align="right" src="./imgs/公众号二维码.jpg" />
+<img align="right" src="./imgs/公众号二维码.jpg" width="120" />
+
 
 ### Hi，我是aicoting。
 
@@ -33,7 +34,6 @@
   </picture>
 </div>
 
-## Hello 👋
 <!--
 **zhangting-hit/zhangting-hit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
