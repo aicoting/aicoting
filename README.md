@@ -2,6 +2,16 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <img src="https://readme-typing-svg.demolab.com/?lines=Always+Stay+Curious&center=true&font_size=80" alt="Typing SVG" />
 
+<img align="right" src="./imgs/公众号二维码.jpg" />
+
+### Hi，我是aicoting。
+
+---
+
+
+👉 [aicoting官方AI网站](aicoting.cn)
+
+<br/>
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://x.com/HZhangting"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
@@ -43,18 +53,6 @@ Here are some ideas to get you started:
 ### 🤺 About Me
 
 <p>&emsp;&emsp;计算机硕士在读，热爱编程和读书。</p>
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=aicoting&column=4)
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=aicoting&theme=darkhub&column=4&margin-w=10&margin-h=10"
-  width="800"
-/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aicoting&show_icons=true)
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aicoting)
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
