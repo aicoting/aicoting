@@ -1,8 +1,9 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <img
-  src="https://readme-typing-svg.demolab.com/?lines=Always+Stay+Curious&center=true&size=80&color=58A6FF"
+  src="https://readme-typing-svg.demolab.com/?lines=Always+Stay+Curious&center=true&size=50&color=FFA500"
   alt="Typing SVG"/>
+
 
 
 <img align="right" src="./imgs/公众号二维码.jpg" width="150" />
