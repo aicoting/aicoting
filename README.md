@@ -12,7 +12,12 @@
 ---
 
 
-👉 [aicoting官方AI网站](https://aicoting.cn)
+<p align="center">
+  <a href="https://aicoting.cn">
+    <img src="https://img.shields.io/badge/👉-aicoting官方AI网站-FF6600?style=for-the-badge&logo=appveyor&logoColor=white"/>
+  </a>
+</p>
+
 
 <br/>
   <!-- profile logo 个人资料徽标 -->
