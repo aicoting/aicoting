@@ -18,6 +18,17 @@
   </a>
 </p>
 
+<p align="center">
+  <b style="font-size:26px; color:#FFA500;">
+    👉 <a href="https://aicoting.cn" style="color:#FFA500; text-decoration:none;">aicoting官方AI网站</a>
+  </b>
+</p>
+
+<p align="center">
+  <a href="https://aicoting.cn" style="font-size:26px; color:#FFA500; text-decoration:none; text-shadow: 1px 1px 2px #ffbb66;">
+    👉 aicoting官方AI网站
+  </a>
+</p>
 
 <br/>
   <!-- profile logo 个人资料徽标 -->
