@@ -1,6 +1,9 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Always+Stay+Curious&center=true&font_size=80" alt="Typing SVG" />
+  <img
+  src="https://readme-typing-svg.demolab.com/?lines=Always+Stay+Curious&center=true&size=80&color=58A6FF"
+  alt="Typing SVG"/>
+
 
 <img align="right" src="./imgs/公众号二维码.jpg" width="150" />
 
@@ -15,10 +18,8 @@
 <br/>
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://x.com/HZhangting"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/channel/UCZFnqiae-NLdu-4uJJZscQg"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/wu-wang-wo-24-38"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="https://cdn.nlark.com/yuque/0/2025/jpeg/28454971/1748338566646-6d4c827a-074d-4cf6-a864-6af9b515b2d5.jpeg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/649312105?spm_id_from=333.33.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=zhangting-hit&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
