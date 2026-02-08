@@ -40,25 +40,25 @@
   </picture>
 </div>
 
-<!--
-**zhangting-hit/zhangting-hit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 ### 🤺 slogan
 
 <p>&emsp;&emsp;分享是一种信仰，连接让成长更有温度。</p>
+
+### 🗃️项目与作品
+#### 📚AI八股学习
+- [AIHub🔥](https://github.com/aicoting/AIHub):AI八股大全
+- [DLHub](https://github.com/aicoting/DLHub):深度学习八股大全
+- [MLHub](https://github.com/aicoting/MLHub):机器学习八股大全
+
+#### 🖥️AI实战项目
+- [EcomCare🔥](https://github.com/aicoting/EcomCare):AI 电商客服系统（含微调）
+- [mcp_demo](https://github.com/aicoting/mcp_demo): KPI Dashboard 智能体服务
+
+#### ⌨️AI服务
+- [idcard_detect](https://github.com/aicoting/idcard_detect): 身份证卡板检测服务
+- [face_recognition](https://github.com/aicoting/face_recognition): 人脸识别服务
+
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
