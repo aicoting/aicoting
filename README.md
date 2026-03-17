@@ -27,16 +27,16 @@
     <a href="https://blog.csdn.net/weixin_53004531?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-博客-0066B3?style=flat&logo=csdn&logoColor=white" /></a>&emsp;
     <a href="https://www.youtube.com/channel/UCZFnqiae-NLdu-4uJJZscQg"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=zhangting-hit&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=aicoting&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
-    <a href="https://wakatime.com/@zhangting-hit"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+    <a href="https://wakatime.com/@aicoting"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
   
   </div>
   <!-- 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhangting-hit/zhangting-hit/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhangting-hit/zhangting-hit/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhangting-hit/zhangting-hit/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aicoting/aicoting/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aicoting/aicoting/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aicoting/aicoting/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
